@@ -1,2 +1,0 @@
-seed_url,max_pages,num_threads,total_ms,pages_crawled,throughput
-https://en.wikipedia.org/wiki/Cricket,100,8,33115,107,3.23
