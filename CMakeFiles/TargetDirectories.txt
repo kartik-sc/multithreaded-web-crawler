@@ -1,0 +1,4 @@
+/home/kartik/wub/build/CMakeFiles/crawler.dir
+/home/kartik/wub/build/CMakeFiles/clean-all.dir
+/home/kartik/wub/build/CMakeFiles/edit_cache.dir
+/home/kartik/wub/build/CMakeFiles/rebuild_cache.dir

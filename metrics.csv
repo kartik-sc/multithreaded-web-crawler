@@ -1,0 +1,4 @@
+seed_url,max_pages,num_threads,total_ms,pages_crawled,throughput
+https://en.wikipedia.org/wiki/Cricket,50,8,18112,57,3.15
+https://en.wikipedia.org/wiki/Football,50,8,20600,57,2.77
+https://en.wikipedia.org/wiki/Cricket,100,5,38702,104,2.69
