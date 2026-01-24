@@ -1,0 +1,5 @@
+seed_url,max_pages,num_threads,total_ms,pages_crawled,throughput
+https://en.wikipedia.org/wiki/Cricket,100,8,33115,107,3.23
+https://codeforces.com/,100,10,20290,109,5.37
+https://en.wikipedia.org/wiki/Football,200,6,69893,203,2.90
+https://en.wikipedia.org/wiki/Football,300,6,109203,305,2.79
